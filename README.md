@@ -13,5 +13,5 @@ docker-compose up
 ```
  - rodar o server
 ```shell
-go run server/server.go
+go run cmd/server/main.go
 ```
